@@ -1,0 +1,6 @@
+H:\УП\Работа 4\работа 4.2(шарп)\работа 4.2(шарп)\obj\Debug\работа 4.2(шарп).csproj.AssemblyReference.cache
+H:\УП\Работа 4\работа 4.2(шарп)\работа 4.2(шарп)\obj\Debug\SettingsManager.resources
+H:\УП\Работа 4\работа 4.2(шарп)\работа 4.2(шарп)\obj\Debug\работа_4._2_шарп_.Properties.Resources.resources
+H:\УП\Работа 4\работа 4.2(шарп)\работа 4.2(шарп)\obj\Debug\работа 4.2(шарп).csproj.GenerateResource.cache
+H:\УП\Работа 4\работа 4.2(шарп)\работа 4.2(шарп)\obj\Debug\работа 4.2(шарп).csproj.CoreCompileInputs.cache
+H:\УП\Работа 4\работа 4.2(шарп)\работа 4.2(шарп)\obj\Debug\RegistrySettingsApp.SettingsManager.resources
