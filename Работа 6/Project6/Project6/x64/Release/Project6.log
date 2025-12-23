@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+H:\УП\Работа 6\Project6\Project6\FileName.cpp(26,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Project6.vcxproj -> H:\УП\Работа 6\Project6\x64\Release\Project6.exe
